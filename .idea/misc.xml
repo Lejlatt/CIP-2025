@@ -8,10 +8,11 @@
         <option value="$PROJECT_DIR$/FinalPrep/pom.xml" />
         <option value="$PROJECT_DIR$/Lecture08/pom.xml" />
         <option value="$PROJECT_DIR$/Lecture07/PostJpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Final_Goce_Lazarevski_5911/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_23">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
